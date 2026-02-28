@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "promicro")(type "KiCad")(uri "C:/Users/jacks/Documents/mouse-micro/ProMicroKiCad-master/ProMicroKiCad-master/promicro.pretty")(options "")(descr ""))
+)
