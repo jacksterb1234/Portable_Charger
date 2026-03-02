@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "2026-02-28_00-57-18")(type "KiCad")(uri "${KIPRJMOD}/ul_FUSB302MPX/KiCADv6/2026-02-28_00-57-18.kicad_sym")(options "")(descr ""))
   (lib (name "2026-02-28_01-03-38")(type "KiCad")(uri "${KIPRJMOD}/ul_USB4515-GF-A/KiCADv6/2026-02-28_01-03-38.kicad_sym")(options "")(descr ""))
+  (lib (name "2026-03-01_22-59-21")(type "KiCad")(uri "${KIPRJMOD}/ul_LS2406ERQ23/KiCADv6/2026-03-01_22-59-21.kicad_sym")(options "")(descr ""))
 )
